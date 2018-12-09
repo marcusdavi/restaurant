@@ -1,5 +1,10 @@
 # restaurant
-Module 03 - Lesson 09 - Udacity - Nanodegree Full-stack Web Developer (Flask Framework)
+Module 03 - Lesson 09 - Udacity - Nanodegree Full-stack Web Developer (Flask Framework). CRUD of the restaurants and your menu items.
+
+## Requirements Softwares
+1. Python 3
+2. Flask Framework
+3. SQL Alchemy
 
 ## To run this final project
 
